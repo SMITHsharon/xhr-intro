@@ -1,0 +1,23 @@
+
+{
+	"dinosaurs": [
+		{
+			"name": "Rex",
+			"type": "T-Rex",
+			"food": "smaller dinosaurs",
+			"url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSk-Q2-_auFXtpIV7loFWbrPwnWSfOKvc2CL2NjxzA4BmBJ4CPvng"
+		},
+		{
+			"name": "Steve",
+			"type": "Stegosaurus",
+			"food": "leaves",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Ba%C5%82t%C3%B3w_Park_Jurajski_001.jpg"
+		},
+		{
+			"name": "John",
+			"type": "Pterodactyl",
+			"food": "birds",
+			"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIdZ1Z4DjI_mwNTJfC86YlPeRt3Z-nE6GYGHX5CATHC28uGc_XTw"
+		}
+	]		
+}
