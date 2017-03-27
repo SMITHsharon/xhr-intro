@@ -5,14 +5,15 @@ This is a simple class application created to demonstrate and discuss the code f
 
 
 #### Class Demo Screen Grab
-![Class Demo Screen Grab](...)
+![Class Demo Screen Grab](https://raw.githubusercontent.com/SMITHsharon/xhr-intro/screen/screen/XHR%20Intro%20Screen%20Grab.png)
 
 
 ### Project Specs
 #### `JavaScript` basics
-Various `JavaScript` coding syntax and constructs were demonstrated and discussed, including:
-- Used `Bootstrap` to provide the underlying styling and structure for the `html`
-- Created a `JSON` file, `dinosaurs.json`, containing key:value pairs of information for the `dinosaurs` object, including an image file for each
+Used `Bootstrap` to provide the underlying styling and structure for the `html`. 
+
+In addition, various `JavaScript` coding syntax and constructs were demonstrated and discussed, including:
+- Created a `JSON` file, `dinosaurs.json`, containing `key:value` pairs of information for the `dinosaurs` object, including an image file for each
 - Wrote the `JavaScript` code that executes the XHR Request to `open` the `JSON` file
 - Stored the data retrieved from the `JSON` file in the `data` object array
 - Wrote all of the Dinosaur data in one string to the DOM
