@@ -5,7 +5,7 @@ This is a simple class application created to demonstrate and discuss the code f
 
 
 #### Class Demo Screen Grab
-![Class Demo Screen Grab](https://raw.githubusercontent.com/SMITHsharon/xhr-intro/screen/screen/XHR%20Intro%20Screen%20Grab.png)
+![Class Demo Screen Grab](https://raw.githubusercontent.com/SMITHsharon/xhr-intro/master/screen/XHR%20Intro%20Screen%20Grab.png)
 
 
 ### Project Specs
